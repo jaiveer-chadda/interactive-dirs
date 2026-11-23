@@ -1,0 +1,19 @@
+# dirs/.gitignore
+
+# Project Files
+out/
+build/
+archive/
+
+# System Files
+.DS_Store
+Icon?
+
+# IDEs
+.idea/
+.vscode/
+
+# Other
+~$*
+*_temp*
+*.tmp
